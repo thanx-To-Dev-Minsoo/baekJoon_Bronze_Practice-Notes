@@ -59,4 +59,4 @@ public class bronze_10039 {
 //
 //        sc.close();
 //    }
-//}
+//} 이 문제도 성공
